@@ -1,2 +1,2 @@
 # Charity-Clarity
-This is the blockchain based charity tracking decentralized app.
+# Gaand Fat rahi hai kuch nahi ban raha . mkc.
